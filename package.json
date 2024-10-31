@@ -1,0 +1,16 @@
+{
+  "name": "backendprojectmern",
+  "version": "1.0.0",
+  "description": "a mern backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "praneeth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
